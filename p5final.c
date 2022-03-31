@@ -15,3 +15,8 @@ void init_array(int n,inta[n])
     a[0]=0
     a[1]=0
 }
+
+void erotosthenes_sieve(int n,inta[n])
+{
+  
+}
